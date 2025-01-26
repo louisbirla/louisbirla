@@ -1,12 +1,7 @@
 ## Hi! 👋
 
-I'm **Louis Birla**: a (mainly) web developer and student with pretty ambitious goals. 🚀
+I’m a philosophy and engineering student with a passion for reading, deep thinking, and having meaningful conversations.
 
-I've got a portfolio at [birla.io](https://birla.io), and I've been building [Loop](https://loop.page), the platform for the next evolution of apps.
+I aspire to enrich lives through **Immanent Essays**, published [on substack](https://essays.birla.io/).
 
-#### I've got interests in:
-
-- 🖥️ Tech (of all kinds)
-- 🌏 Worldbuilding (especially cultures & languages\*)
-- 🎮 Gaming (especially strategy games)
-- 🤔 Philosophy
+I use codeberg instead of GitHub for my own code these days.
